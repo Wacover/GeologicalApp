@@ -210,5 +210,3 @@ field_Mohr.get_tk_widget().place(relx=0.32,rely=0.2,relwidth=0.66,relheight=0.38
 field_rho.get_tk_widget().place(relx=0.32,rely=0.6,relwidth=0.66,relheight=0.38)
 
 app.mainloop()
-
-# テストを書いてみてます。
